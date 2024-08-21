@@ -13,7 +13,7 @@ Easy Integration: Can be easily integrated into other projects involving gesture
 Customizable: Parameters and thresholds can be adjusted to suit various lighting conditions and hand sizes.
 
 <h2>Requirements:</h2>
-Python 3.x,
-OpenCV
-Mediapipe (optional, for enhanced landmark detection)
-Numpy
+Python 3.x<br>
+OpenCV<br>
+Mediapipe (optional, for enhanced landmark detection)<br>
+Numpy<br>
